@@ -1,0 +1,40 @@
+{"contenedorP": [
+        {"tag": "saludos",
+         "preguntas": ["Hola", "Esta ahi?", "Yuju", "Puedes ayudarme?", "Buenas tardes", "Oye"],
+         "respuestas": ["Hola!", "En que puedo ayudarte?", "Hey, que vamos hacer hoy?"]
+        },
+        {"tag": "despedidas",
+         "preguntas": ["Hasta pronto", "Adios amigo", "Goodbye", "Me voy", "Me ayudaste, hasta la proxima","gracias", "Adios"],
+         "respuestas": ["Hasta pronto amigo", "Hasta la proxima", "Cuidate, te estaré observando"]
+        },
+        {"tag": "horarios",
+         "preguntas": ["a que hora atienden", "horarios", "a que hora puedo asistir", "en que hora puedo llegar", "hora?"],
+         "respuestas": ["Normalmente la atencion es por la tarde, si deseas atencion inmediata puedes llamar al: 2411-1800", "Puedes asistir a nuestras oficinas desde las 14:00 horas hasta 20:00 horas de Lunes a Viernes. Y de 9:00 AM a 3:00 PM los dias Sábados"]
+        },
+        {"tag": "cursosIng",
+         "preguntas": ["Que cursos contiene Ingenieria en Sistemas", "Cursos de ingenieria en sistemas", "Cuales son los cursos de ingenieria informatica"],
+         "respuestas": ["Los cursos más intensos son : Programacion, Bases de datos, Inteligencia Artificial (de las mejores) y Auditoria en Sistemas Informaticos", "Los cursos de ingenieria en sistemas se basan en todo aquello relacionado al proceso, mantenimiento y proteccion de datos, como por ejemplo : Redes Informaticas, Arquitectura de computadores y Sistemas Operativos (Libres y Corporativos) ", "Creo que para comenzar las matemáticas y el mundo del algebra deben gustarte"]
+        },
+        {"tag": "precios",
+         "preguntas": ["Precios de inscripcion", "Pago de inscripcion", "Cuales son los precios?", "Quiero realizar un pago", "Precios"],
+         "respuestas": ["El precio de inscripcion es: MATRICULA SEMESTRAL - PLAN FIN DE SEMANA Q675.00 Y MATRICULA SEMESTRAL - PLAN FIN DIARIO Q1325.00"]
+        },
+        {"tag": "requisitos",
+         "preguntas": ["Quiero inscribirme en la Mariano Galvez", "Quiero estudiar en la Mariano Galvez", "Necesito informacion se inscripciones", "inscribirme", "requisitos de inscripcion","inscripcion"],
+         "respuestas": ["Excelente, los requisitos son : Constancia de Evaluación de Ubicación (Campus Central), Completar Formulario de Nuevo Estudiante, Original y fotocopia de DPI o pasaporte, Certificacion original de Básicos y Diversificado, Fotostática de título de 5 x 7 pulgadas y Dos fotografías recientes tamaño Cédula."]
+        },
+        {"tag": "fcontexto",
+                "preguntas": ["", "aasdfasdfghadg", " ", "hackear", "robar"],
+                "respuestas": ["Hey, Bromista!","Eso no está programado, hable con el Desarrollador","Como así?","Hey!"]
+        },
+        {"tag": "tpagos",
+         "preguntas": ["Formas de pago", "Que formas de pago","Tienes formas de pago?"],
+         "respuestas": ["Las formas de Dpago son : Debito/Credito, Deposito en algunas de las agencias asociadas (BAM,BI,BANTRAB), puedes realizar pagos anticipados."]
+        }
+        ,
+        {"tag": "otras universidades",
+         "preguntas": ["prefiero la universidad rural", "me gusta la universidad  usac"," prefiero la san carlos", "es mejor la universidad del valle", "me gusta muchi la universidad da vinci"],
+         "respuestas": ["JAJAJA, el día de hoy estás muy chistoso", "JAJAJA suficiente chistes por hoy", "Wow! Este Bot es creado por Estudiantes de la Universidad Mariano Galvez, con la ayuda de algunos americas jeje", "AUTODESTRUCCION ACTIVA EN 3, 2, 1. BUM!"]
+        }
+   ]
+}
